@@ -200,5 +200,7 @@ Existuje volně šiřitelná kniha [Pro Git][] ve které najdete vše potřebné
 Pro efektivní používaní tohoto skvělého nástroje vám stačí přečíst si **první tři
 kapitoly**. Nenechte se tedy odradit, stojí to jistě za too.
 
+Úprava by: KrySt
+
 
 [Pro Git]: https://knihy.nic.cz/#ProGit
